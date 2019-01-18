@@ -26,22 +26,26 @@ title: " "
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
 OS
-* [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
+
+&nbsp; [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
 <!-- * [Windows](Windows) -->
 <!-- * [Mac](Mac) -->
 
 가상화
-* [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
+
+&nbsp; [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
 
 ### 도구
 
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
 편집기
-* [Vim](https://github.com/istree/istree.github.com/wiki/Vim)
+
+&nbsp; [Vim](https://github.com/istree/istree.github.com/wiki/Vim)
 
 IDE
-* [IntelliJ](https://github.com/istree/istree.github.com/wiki/IntelliJ)
+
+&nbsp; [IntelliJ](https://github.com/istree/istree.github.com/wiki/IntelliJ)
 <!-- * [Visual Studio](Visual Studio) -->
 <!-- * [Eclipse](Eclipse) -->
 
@@ -49,12 +53,14 @@ IDE
 <!-- * [CMake](CMake) -->
 
 형상관리
-* [Git](https://github.com/istree/istree.github.com/wiki/Git)
+
+&nbsp; [Git](https://github.com/istree/istree.github.com/wiki/Git)
 <!-- * [Subversion](Subversion) -->
 
 CMS
 <!-- * [Wiki](Wiki) -->
-* [Jekyll](https://github.com/istree/istree.github.com/wiki/Jekyll)
+
+&nbsp; [Jekyll](https://github.com/istree/istree.github.com/wiki/Jekyll)
 <!-- * [WordPress](WordPress) -->
 
 ### 서버
@@ -62,10 +68,12 @@ CMS
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
 HTTP
-* [Apache2](https://github.com/istree/istree.github.com/wiki/Apache2)
+
+&nbsp; [Apache2](https://github.com/istree/istree.github.com/wiki/Apache2)
 
 DB
-* [MySQL](https://github.com/istree/istree.github.com/wiki/MySQL)
+
+&nbsp; [MySQL](https://github.com/istree/istree.github.com/wiki/MySQL)
 
 <!-- [Oracle DBMS](Oracle DBMS) -->
 
