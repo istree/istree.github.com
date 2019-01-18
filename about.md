@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 개요
 permalink: /about/
 ---
 
