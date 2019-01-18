@@ -8,7 +8,7 @@ title: " "
 ---
 
 ### 언어
-<hr style="height:1px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
+<hr style="height:2px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
 
 <!-- [C, C++](C, C++) -->
 
@@ -21,7 +21,7 @@ title: " "
 <!-- [Web](Web) -->
 
 ### 환경
-<hr style="height:1px;border:none;color:##e8e8e8;background-color:#e8e8e8;"/>
+<hr style="height:2px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
 
 OS
 * [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
@@ -32,7 +32,7 @@ OS
 * [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
 
 ### 도구
-<hr style="height:1px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
+<hr style="height:2px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
 
 편집기
 * [Vim](https://github.com/istree/istree.github.com/wiki/Vim)
@@ -55,7 +55,7 @@ CMS
 <!-- * [WordPress](WordPress) -->
 
 ### 서버
-<hr style="height:1px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
+<hr style="height:2px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
 
 HTTP
 * [Apache2](https://github.com/istree/istree.github.com/wiki/Apache2)
@@ -70,7 +70,7 @@ DB
 <!-- [SAP](SAP) -->
 
 ### 리소스
-<hr style="height:1px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
+<hr style="height:2px;border:none;color:#e8e8e8;background-color:#e8e8e8;"/>
 
 [책](https://github.com/istree/istree.github.com/wiki/책)
 
