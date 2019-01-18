@@ -7,7 +7,7 @@ title: " "
 
 ---
 
-## 언어
+### 언어
 <!-- [C, C++](C, C++) -->
 
 <!-- [Java](Java) -->
@@ -18,7 +18,7 @@ title: " "
 
 <!-- [Web](Web) -->
 
-## 환경
+### 환경
 
 OS
 * [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
@@ -28,7 +28,7 @@ OS
 가상화
 * [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
 
-## 도구
+### 도구
 
 편집기
 * [Vim](https://github.com/istree/istree.github.com/wiki/Vim)
@@ -50,7 +50,7 @@ CMS
 * [Jekyll](https://github.com/istree/istree.github.com/wiki/Jekyll)
 <!-- * [WordPress](WordPress) -->
 
-## 서버
+### 서버
 
 HTTP
 * [Apache2](https://github.com/istree/istree.github.com/wiki/Apache2)
@@ -64,7 +64,7 @@ DB
 
 <!-- [SAP](SAP) -->
 
-## 리소스
+### 리소스
 
 [책](https://github.com/istree/istree.github.com/wiki/책)
 
