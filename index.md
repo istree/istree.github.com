@@ -9,14 +9,16 @@ title: " "
 
 <style>
 .block {
-  display: block;
+  float: left;
+  padding: 10px;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  float:left;
-  padding:10px;
+  text-align: left;
 }
 </style>
 
+<div style="text-align: center;">
 <!-- 언어 -->
 <div class="block">
 <h3>언어</h3>
@@ -184,3 +186,4 @@ DB
 
 </div>
 -->
+</div>
