@@ -89,12 +89,12 @@ DB
 
 &nbsp;
 
-### 리소스
+<!-- ### 리소스
 
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
+-->
+<!-- [책](https://github.com/istree/istree.github.com/wiki/책) -->
 
-[책](https://github.com/istree/istree.github.com/wiki/책)
+<!-- [글](https://github.com/istree/istree.github.com/wiki/글) -->
 
-[글](https://github.com/istree/istree.github.com/wiki/글)
-
-[제품](https://github.com/istree/istree.github.com/wiki/제품)
+<!-- [제품](https://github.com/istree/istree.github.com/wiki/제품) -->
