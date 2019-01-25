@@ -8,7 +8,7 @@ title: " "
 ---
 
 <!-- 언어 -->
-<div id="lang" style="float:left; padding:10px">
+<div style="float:left; padding:10px">
 <h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
