@@ -7,8 +7,18 @@ title: " "
 
 ---
 
+<style>
+.block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float:left;
+  padding:10px;
+}
+</style>
+
 <!-- 언어 -->
-<div style="float:left; padding:10px">
+<div class="block">
 <h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
@@ -39,7 +49,7 @@ title: " "
 </div>
 
 <!-- 도구 -->
-<div style="float:left; padding:10px">
+<div class="block">
 <h3>도구</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
@@ -96,7 +106,7 @@ CMS
 </div>
 
 <!-- 환경 -->
-<div style="float:left; padding:10px">
+<div class="block">
 <h3>환경</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
@@ -125,7 +135,7 @@ OS
 </div>
 
 <!-- 서버 -->
-<div style="float:left; padding:10px">
+<div class="block">
 <h3>서버</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
@@ -159,7 +169,7 @@ DB
 
 <!-- 리소스 -->
 <!--
-<div style="float:left; padding:10px">
+<div class="block">
 <h3>리소스</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
@@ -174,3 +184,4 @@ DB
 
 </div>
 -->
+</div>
