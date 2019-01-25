@@ -20,7 +20,7 @@ title: " "
 [Java](https://github.com/istree/istree.github.com/wiki/Java)
 -->
 
-[Haskell](https://github.com/istree/istree.github.com/wiki/Haskell)
+<a href="https://github.com/istree/istree.github.com/wiki/Haskell">Haskell</a>
 
 <!--
 [Erlang](https://github.com/istree/istree.github.com/wiki/Erlang)
