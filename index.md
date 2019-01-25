@@ -7,40 +7,35 @@ title: " "
 
 ---
 
-### 언어
-
+<!-- 언어 -->
+<div id="lang" style="float:left; padding:10px">
+<h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
-<!-- [C, C++](C, C++) -->
+<!--
+[C, C++](https://github.com/istree/istree.github.com/wiki/C,Cpp)
+-->
 
-<!-- [Java](Java) -->
+<!--
+[Java](https://github.com/istree/istree.github.com/wiki/Java)
+-->
 
 [Haskell](https://github.com/istree/istree.github.com/wiki/Haskell)
 
-<!-- [Erlang](Erlang) -->
+<!--
+[Erlang](https://github.com/istree/istree.github.com/wiki/Erlang)
+-->
 
-<!-- [Web](Web) -->
-
-&nbsp;
-
-### 환경
-
-<div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
-
-OS
-
-&nbsp; [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
-<!-- * [Windows](Windows) -->
-<!-- * [Mac](Mac) -->
-
-가상화
-
-&nbsp; [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
+<!--
+[Web](https://github.com/istree/istree.github.com/wiki/Web)
+-->
 
 &nbsp;
+</div>
 
-### 도구
-
+<!-- 도구 -->
+<div style="float:left; padding:10px">
+<h3>도구</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
 편집기
@@ -50,27 +45,70 @@ OS
 IDE
 
 &nbsp; [IntelliJ](https://github.com/istree/istree.github.com/wiki/IntelliJ)
-<!-- * [Visual Studio](Visual Studio) -->
-<!-- * [Eclipse](Eclipse) -->
 
-<!-- 빌드 -->
-<!-- * [CMake](CMake) -->
+<!--
+&nbsp; [Visual Studio](https://github.com/istree/istree.github.com/wiki/Visual-Studio)
+-->
+
+<!--
+&nbsp; [Eclipse](https://github.com/istree/istree.github.com/wiki/Eclipse)
+-->
 
 형상관리
 
 &nbsp; [Git](https://github.com/istree/istree.github.com/wiki/Git)
-<!-- * [Subversion](Subversion) -->
+
+<!--
+&nbsp; [Subversion](https://github.com/istree/istree.github.com/wiki/Subversion)
+-->
 
 CMS
-<!-- * [Wiki](Wiki) -->
+
+<!--
+&nbsp; [Wiki](https://github.com/istree/istree.github.com/wiki/Wiki)
+-->
 
 &nbsp; [Jekyll](https://github.com/istree/istree.github.com/wiki/Jekyll)
-<!-- * [WordPress](WordPress) -->
+
+<!--
+&nbsp; [WordPress](https://github.com/istree/istree.github.com/wiki/WordPress)
+-->
+
+<!-- 빌드 -->
+<!--
+&nbsp; [CMake](https://github.com/istree/istree.github.com/wiki/CMake) -->
+
+&nbsp;
+</div>
+
+<!-- 환경 -->
+<div style="float:left; padding:10px">
+<h3>환경</h3>
+<div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
+
+OS
+
+&nbsp; [Linux](https://github.com/istree/istree.github.com/wiki/Linux)
+
+<!--
+&nbsp; [Windows](https://github.com/istree/istree.github.com/wiki/Windows)
+-->
+
+<!--
+&nbsp; [Mac](https://github.com/istree/istree.github.com/wiki/Mac)
+-->
+
+가상화
+
+&nbsp; [Docker](https://github.com/istree/istree.github.com/wiki/Docker)
 
 &nbsp;
 
-### 서버
+</div>
 
+<!-- 서버 -->
+<div style="float:left; padding:10px">
+<h3>서버</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
 HTTP
@@ -81,20 +119,32 @@ DB
 
 &nbsp; [MySQL](https://github.com/istree/istree.github.com/wiki/MySQL)
 
-<!-- [Oracle DBMS](Oracle DBMS) -->
+<!--
+&nbsp; [Oracle DBMS](https://github.com/istree/istree.github.com/wiki/Oracle-DBMS)
+-->
 
-<!-- [Microsoft SQL Server](Microsoft SQL Server) -->
+<!--
+&nbsp; [Microsoft SQL Server](https://github.com/istree/istree.github.com/wiki/Microsoft-SQL-Server)
+-->
 
-<!-- [SAP](SAP) -->
+<!--
+&nbsp; [SAP](https://github.com/istree/istree.github.com/wiki/SAP)
+-->
 
 &nbsp;
+</div>
 
-<!-- ### 리소스
-
+<!-- 리소스 -->
+<!--
+<div style="float:left; padding:10px">
+<h3>리소스</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
+
+[책](https://github.com/istree/istree.github.com/wiki/책)
+
+[글](https://github.com/istree/istree.github.com/wiki/글)
+
+[제품](https://github.com/istree/istree.github.com/wiki/제품)
+
+</div>
 -->
-<!-- [책](https://github.com/istree/istree.github.com/wiki/책) -->
-
-<!-- [글](https://github.com/istree/istree.github.com/wiki/글) -->
-
-<!-- [제품](https://github.com/istree/istree.github.com/wiki/제품) -->
