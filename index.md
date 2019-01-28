@@ -43,7 +43,8 @@ title: " "
 <br/>
 -->
 
-&nbsp;
+<br/>
+
 </div>
 
 <!-- 도구 -->
@@ -54,6 +55,7 @@ title: " "
 편집기
 <br/>
 &nbsp; <a href="https://github.com/istree/istree.github.com/wiki/Vim">Vim</a>
+<br/>
 <br/>
 
 IDE
@@ -70,6 +72,8 @@ IDE
 <br/>
 -->
 
+<br/>
+
 형상관리
 <br/>
 &nbsp; <a href="https://github.com/istree/istree.github.com/wiki/Git">Git</a>
@@ -79,6 +83,7 @@ IDE
 &nbsp; <a href="https://github.com/istree/istree.github.com/wiki/Subversion">Subversion</a>
 <br/>
 -->
+<br/>
 
 CMS
 <br/>
@@ -100,7 +105,8 @@ CMS
 <br/>
 -->
 
-&nbsp;
+<br/>
+
 </div>
 
 <!-- 환경 -->
@@ -128,7 +134,7 @@ OS
 &nbsp; <a href="https://github.com/istree/istree.github.com/wiki/Docker">Docker</a>
 <br/>
 
-&nbsp;
+<br/>
 
 </div>
 
@@ -162,7 +168,8 @@ DB
 <br/>
 -->
 
-&nbsp;
+<br/>
+
 </div>
 
 <!-- 리소스 -->
