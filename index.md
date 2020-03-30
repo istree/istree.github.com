@@ -1,10 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
+layout: default
 title: " "
-
 ---
 
 <style>
@@ -20,10 +18,8 @@ title: " "
 <h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
-<!--
-<a href="https://github.com/istree/istree.github.com/wiki/C,Cpp">C,Cpp</a>
+<a href="./dev/language/C,C++">C,C++</a>
 <br/>
--->
 
 <!--
 <a href="https://github.com/istree/istree.github.com/wiki/Java">Java</a>
