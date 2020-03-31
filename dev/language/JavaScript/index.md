@@ -30,7 +30,7 @@ title: JavaScript
 &nbsp; [Gatsby](Gatsby)
 -->
 
-## 참고문서
+## 참고자료
 
 &nbsp; [Web Toolkit Online](https://www.webtoolkitonline.com/) JavaScript 테스터 외
 

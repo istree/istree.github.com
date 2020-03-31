@@ -7,7 +7,7 @@ title: Haskell
 
 [하스켈 플랫폼 다운로드 for Mac](https://www.haskell.org/platform/mac.html)
 
-[하스켈 플랫폼 문서](file:///Library/Haskell/ghc-8.6.3-x86_64/doc/start.html)
+[하스켈 플랫폼 문서](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf)
 
 ## 참고자료
 
