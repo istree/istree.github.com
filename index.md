@@ -5,20 +5,12 @@ layout: default
 title: " "
 ---
 
-<style>
-.block {
-  float: left;
-  padding: 10px;
-  text-align: left;
-}
-</style>
-
 <!-- 언어 -->
 <div class="block">
 <h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
-<a href="./dev/language/C,C++">C,C++</a>
+<a href="./dev/language/C,C++/">C,C++</a>
 <br/>
 
 <a href="./dev/language/Java">Java</a>
@@ -214,3 +206,11 @@ IDE
 <br/>
 
 </div>
+
+<style>
+.block {
+  float: left;
+  padding: 10px;
+  text-align: left;
+}
+</style>
