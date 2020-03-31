@@ -4,6 +4,8 @@ title: Vim
 ---
 ## 단축키
 
+[단축키 요약](단축키-요약(Vim))
+
 [Graphical vi-vim Cheat Sheet(한글)](https://kldp.org/node/102947)
 
 ## 스크립팅
@@ -15,5 +17,3 @@ title: Vim
 [simple vim guide](https://github.com/johngrib/simple_vim_guide)
 
 [Vim motion](http://vimdoc.sourceforge.net/htmldoc/motion.html)
-
-[Vim 시작하기](https://opentutorials.org/course/730/4559)

@@ -67,4 +67,4 @@ import 최적화 : **⌃⌥O**
 
 [IntelliJ Shortcuts](https://terrencemiao.github.io/intellij-keyboard.html)
 
-[most useful IntelliJ Shortcuts](http://stackoverflow.com/questions/294167/what-are-the-most-useful-intellij-idea-keyboard-shortcuts)
+[Most useful IntelliJ Shortcuts](http://stackoverflow.com/questions/294167/what-are-the-most-useful-intellij-idea-keyboard-shortcuts)
