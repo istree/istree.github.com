@@ -10,7 +10,7 @@ title: " "
 <h3>언어</h3>
 <div style="border-top: 1px solid #e8e8e8; padding: 2px; padding-bottom: -4px; text-align: center; border-bottom: none;">&nbsp;</div>
 
-<a href="./dev/language/C,C++/">C,C++</a>
+<a href="./dev/language/C,C++/index">C,C++</a>
 <br/>
 
 <a href="./dev/language/Java">Java</a>
