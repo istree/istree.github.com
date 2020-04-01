@@ -2,7 +2,6 @@
 layout: dev
 title: 단축키(IntelliJ)
 ---
-기능 검색 : **⇧⌘A**
 
 ## 편집
 이름 바꾸기 : **⌃T then 1** or **⇧F6** 
@@ -38,7 +37,7 @@ import 최적화 : **⌃⌥O**
 파라미터 이동 : **⌥⌘⇧←** or **⌥⌘⇧→**
 
 ## 탐색
-현재 파일 위치로 Navigate 이동 : **⌥F1 then 1** or
+현재 파일 위치로 Navigate 이동 : **⌥F1 then 1** or ~ 9
 
 선언부로 이동 : **⌘B**
 
@@ -52,6 +51,8 @@ import 최적화 : **⌃⌥O**
 
 다음 에디터 : **⇧⌘]**
 
+미리보기 : **⌘Y** or **⌥␣**
+
 ## 창
 창닫기 : **⌘W**
 
@@ -62,9 +63,18 @@ import 최적화 : **⌃⌥O**
 
 디버그 : **⌃D**
 
+## 기타
+
+기능 찾기 : **⇧x2** or **⇧⌘A**
+
+콘솔 명령어 실행 : **⌃x2**
+
+
 ## 참고자료
-[Migrating From Eclipse](https://www.jetbrains.com/help/idea/2016.3/eclipse.html?search=shortcut)
 
 [IntelliJ Shortcuts](https://terrencemiao.github.io/intellij-keyboard.html)
 
 [Most useful IntelliJ Shortcuts](http://stackoverflow.com/questions/294167/what-are-the-most-useful-intellij-idea-keyboard-shortcuts)
+
+[Migrating From Eclipse](https://www.jetbrains.com/help/idea/2016.3/eclipse.html?search=shortcut)
+

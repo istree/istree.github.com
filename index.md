@@ -25,10 +25,8 @@ title: " "
 <a href="./dev/language/JavaScript">JavaScript</a>
 <br/>
 
-<!--
-<a href="https://github.com/istree/istree.github.com/wiki/Web">Web</a>
+<a href="./dev/language/Rust">Rust</a>
 <br/>
--->
 
 <br/>
 

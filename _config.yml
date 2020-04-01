@@ -16,7 +16,7 @@
 title: istree
 email: mail@istree.com
 description: >- # this means to ignore newlines until "baseurl:"
-  프로그래밍 메모장
+  프로그래밍 노트
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iistree
