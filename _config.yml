@@ -24,9 +24,9 @@ github_username:  istree
 
 # Build settings
 markdown: kramdown
-# theme: minima
-# plugins:
-# - jekyll-feed
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,7 +41,7 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 # search: true
 defaults:
