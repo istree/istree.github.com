@@ -6,9 +6,9 @@ title: JavaScript
 
 ### 코어
 
-&nbsp; [UnderscoreJS](https://underscorejs.org/) : 컬렉션, 배열, 함수, 객체, 유틸 등 함수들 모음
+&nbsp; [UnderscoreJS](https://underscorejs.org/)
 
-&nbsp; [RequireJS](https://requirejs.org/) : 파일 및 모듈 로더
+&nbsp; [RequireJS](https://requirejs.org/)
 
 &nbsp; [JQuery](JQuery)
 
