@@ -23,10 +23,11 @@ twitter_username: iistree
 github_username:  istree
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# markdown: kramdown
+# theme: minima
+
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,16 +42,18 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
-# search: true
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      abc: "가나다"
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+plugins:
+  - jekyll-include-cache
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
+
 footer:
   links:
     - label: "Twitter"
