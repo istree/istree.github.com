@@ -42,6 +42,25 @@ jekyll serve
 
 <http://localhost:4000>
 
+## 검색
+
+_config.yml에 다음 항목 추가
+
+```bash
+search: true
+```
+
+_posts 처럼 collections가 적용된 페이지만 검색이 동작한다.
+
+만약 dev 디렉토리내에 컨텐츠가 있다면 _dev로 변경하고 colllections와 output을 true로 설정해줘야 작동한다.
+
+_config.yml 편집
+```bash
+collections:
+  dev:
+    output: true
+``` 
+
 ## 문제해결
 
 ### Liquid Exception: No repo name found. 발생 시
