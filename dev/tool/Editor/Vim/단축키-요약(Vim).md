@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 단축키 요약(Vim)
 ---
 

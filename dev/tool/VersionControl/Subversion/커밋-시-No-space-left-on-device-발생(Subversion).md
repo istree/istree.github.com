@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Subversion
 ---
 데이터 공간이 충분한데도 위 메시지가 발생할 경우 iNode가 부족해서 그렇다고 한다. iNode를 확보하면 해결된다고 함

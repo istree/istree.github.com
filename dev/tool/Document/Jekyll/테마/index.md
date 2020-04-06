@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 테마
 ---
 

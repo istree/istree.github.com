@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 문제해결(Docker)
 ---
 ## unauthorized: incorrect username or password.

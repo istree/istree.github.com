@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Canvas
 ---
 ## 참고자료

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Jekyll
 ---
 ## [개요](개요)

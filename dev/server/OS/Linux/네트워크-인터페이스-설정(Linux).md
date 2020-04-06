@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 네트워크 인터페이스 설정(Linux)
 ---
 설정파일 열기

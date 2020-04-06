@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Docker Compose
 ---
 Docker의 명령어를 관리하기 위한 도구이다.

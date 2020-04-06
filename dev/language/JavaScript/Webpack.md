@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Webpack
 ---
 ## 사용

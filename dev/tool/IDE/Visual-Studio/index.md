@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Visual Studio
 ---
 ## 단축키

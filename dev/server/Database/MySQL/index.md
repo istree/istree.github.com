@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: MySQL
 ---
 ## 로그인

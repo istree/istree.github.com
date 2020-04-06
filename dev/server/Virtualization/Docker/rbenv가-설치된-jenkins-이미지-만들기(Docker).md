@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: rbenv가 설치된 jenkins 이미지 만들기
 ---
 dockerfile 예제

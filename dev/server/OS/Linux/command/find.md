@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: find
 ---
 현재 디렉토리 및 하위 디렉토리에서 .DS_Store 파일을 검색한다.

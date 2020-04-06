@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: run(Docker)
 ---
 ## 동작

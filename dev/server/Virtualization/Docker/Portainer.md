@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Portainer
 ---
 ## 설치

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: rm(Docker)
 ---
 ## 동작

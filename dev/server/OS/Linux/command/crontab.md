@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: crontab
 ---
 명령어를 설정한 주기로 실행해주는 도구이다.

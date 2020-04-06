@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: DNS 설정(Linux)
 ---
 설정파일 열기

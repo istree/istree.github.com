@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 저장소 자동 갱신(Git)
 ---
 [Automatic deploy using Git](https://medium.com/@dpursanov/automatic-deploy-using-git-72ddbc1785cf)

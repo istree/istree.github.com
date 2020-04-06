@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Electron App 만들기
 ---
 ## 개요

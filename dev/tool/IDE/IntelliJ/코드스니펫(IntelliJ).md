@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 코드스니펫(IntelliJ)
 ---
 JetBrain 툴에서는 Live Template 라고 한다.

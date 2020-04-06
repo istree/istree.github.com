@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 환경설정(IntelliJ)
 ---
 ## 파일 생성 시 Create by 주석 제거

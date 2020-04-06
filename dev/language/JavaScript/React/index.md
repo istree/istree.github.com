@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: React
 ---
 ## 시작하기

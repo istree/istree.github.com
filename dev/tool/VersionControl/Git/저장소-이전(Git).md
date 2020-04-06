@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 저장소 이전(Git)
 ---
 

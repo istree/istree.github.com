@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Subversion
 ---
 ## 문제 해결

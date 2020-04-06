@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Liquid 템플릿
 ---
 jekyll로 page를 작성시 특별한 제어를 위해 Liquid 템플릿 구문을 사용한다.

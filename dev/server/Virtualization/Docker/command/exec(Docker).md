@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: exec(Docker)
 ---
 ## 동작

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: C,C++ 
 ---
 ## Win32

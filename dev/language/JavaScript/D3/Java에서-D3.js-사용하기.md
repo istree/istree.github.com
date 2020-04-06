@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Java에서-D3.js-사용하기
 ---
 ## 개요

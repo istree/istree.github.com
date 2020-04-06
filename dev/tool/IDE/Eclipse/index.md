@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Eclipse
 ---
 ## 단축키

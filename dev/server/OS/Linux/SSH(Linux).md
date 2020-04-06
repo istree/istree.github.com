@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: SSH(Linux)
 ---
 ## 설치

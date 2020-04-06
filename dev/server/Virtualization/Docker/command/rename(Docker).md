@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: rename(Docker)
 ---
 ## 동작

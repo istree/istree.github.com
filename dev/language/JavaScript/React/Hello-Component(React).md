@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Hello-Component(React)
 ---
 앞서 만든 Hello World에 컴포넌트를 적용해서 다시 만든다.

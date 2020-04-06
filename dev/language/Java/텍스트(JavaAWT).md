@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 텍스트(JavaAWT)
 ---
 

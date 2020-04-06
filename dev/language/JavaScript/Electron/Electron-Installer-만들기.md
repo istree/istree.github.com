@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Electron Installer 만들기
 ---
 ## electron-builder 설치

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 리눅스 Docker 설치
 ---
 ```bash

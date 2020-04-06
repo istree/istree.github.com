@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Electron
 ---
 [Electron App 만들기](Electron-App-만들기)

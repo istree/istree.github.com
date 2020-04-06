@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: stop(Docker)
 ---
 ## 동작

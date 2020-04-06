@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: find와 grep 조합
 ---
 grep -r 옵션이 동작하지 않을경우나 파일명에 정규식을 적용해서 필터링 할 경우에 find와 grep를 조합해서 사용한다.

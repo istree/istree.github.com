@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: JetBrains IDE를 사용한다면 기억하고 싶은 10 tips(JP) 
 ---
 

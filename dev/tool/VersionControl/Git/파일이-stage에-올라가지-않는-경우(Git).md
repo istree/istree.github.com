@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 파일이 stage에 올라가지 않는 경우(Git)
 ---
 .gitignore 외에도 사용자별로 홈 디렉토리에 .gitignore_global 파일이 존재한다.

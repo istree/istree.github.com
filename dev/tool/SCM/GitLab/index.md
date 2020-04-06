@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: GitLab
 ---
 ## 설치

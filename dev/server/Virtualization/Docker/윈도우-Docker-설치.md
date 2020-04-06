@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: 윈도우 Docker 설치
 ---
 ## 종류

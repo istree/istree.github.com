@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: SVG
 ---
 ## 참고자료

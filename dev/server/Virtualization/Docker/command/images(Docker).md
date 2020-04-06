@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: images(Docker)
 ---
 ## 동작

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: D3
 ---
 [Java에서 D3.js 사용하기](Java에서-D3.js-사용하기)

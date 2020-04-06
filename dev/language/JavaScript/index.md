@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: JavaScript
 ---
 ## 모듈

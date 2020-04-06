@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: CMake
 ---
 ## 개요

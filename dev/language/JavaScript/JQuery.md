@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: JQuery
 ---
 ## jQuery.when 에서 배열 사용

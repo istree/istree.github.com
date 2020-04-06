@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Hello-World(React)
 ---
 대부분 예제들이 node로 되어있지만

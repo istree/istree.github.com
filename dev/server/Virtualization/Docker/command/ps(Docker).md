@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: ps(Docker)
 ---
 ## 동작

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Linux
 ---
 ## 명령어

@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: IntelliJ
 ---
 ## 사용

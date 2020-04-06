@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: rmi(Docker)
 ---
 ## 동작

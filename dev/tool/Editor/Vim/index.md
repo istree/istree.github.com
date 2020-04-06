@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Vim
 ---
 ## 단축키

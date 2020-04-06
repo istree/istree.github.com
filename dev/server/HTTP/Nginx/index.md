@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Nginx
 ---
 ## 설정

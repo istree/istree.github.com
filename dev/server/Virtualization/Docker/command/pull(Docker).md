@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: pull(Docker)
 ---
 ## 동작

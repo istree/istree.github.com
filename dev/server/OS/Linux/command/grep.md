@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: grep
 ---
 파일 내의 텍스트를 검색해서 출력한다.

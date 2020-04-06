@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: Jenkins
 ---
 ## Jenkins mac os ip주소 설정

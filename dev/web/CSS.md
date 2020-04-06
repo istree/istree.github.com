@@ -1,5 +1,4 @@
 ---
-layout: dev
 title: CSS
 ---
 ## 참고자료
