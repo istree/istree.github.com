@@ -2,35 +2,33 @@
 title: MFC
 ---
 
-## 코드
+## 출력 창에 메시지 출력(MFC)
 
-### 출력 창에 메시지 출력(MFC)
-
-```C++
+```c++
 OutputDebugString(_T("Hello world.\n"));
 ```
 
-```C++
+```c++
 #ifdef _DEBUG
 TRACE("character Name : \n");
 #endif //_DEBUG
 ```
 
-### 마우스 커서로 색상 추출(MFC)
+## 마우스 커서로 색상 추출(MFC)
 
 현재 창을 벗어나도 마우스 이벤트를 받을수 있는 아래 API를 사용한다.
 
-```C++
+```c++
 SetCapture(); 
 ReleaseCapture();
 ```
 
 다만 위 API는 WM_LBUTTONDOWN 이 유지될 동안만 유효하다.
 
-#### 참고문서
+### 참고문서
 [ColorFinder](https://www.codeproject.com/Articles/5009/ColorFinder-Retrieve-the-color-of-any-pixel-on-the)
 
-### Editing CWnd를 Popup으로 띄우기(MFC)
+## CWnd를 Popup으로 띄우기(MFC)
 
 ```c++
 CWndFrame* m_pWndFrame = new CWndFrame();
