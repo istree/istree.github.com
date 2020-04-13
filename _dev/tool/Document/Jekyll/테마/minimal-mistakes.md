@@ -59,7 +59,19 @@ _config.yml 편집
 collections:
   dev:
     output: true
-``` 
+```
+
+## 레이아웃
+
+모든 페이지에 single 레이아웃 적용
+
+```bash
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+```
 
 ## 문제해결
 

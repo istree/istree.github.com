@@ -44,6 +44,16 @@ server {
 
 세미콜론 ;을 안해주면 오류가 발생하므로 주의한다.
 
+## try_files
+
+지정된 순서대로 파일이 있는 확인하고 request 처리를 위해 처음 찾은 파일을 사용한다.
+
+html 확장자가 없는 href 링크를 자동으로 처리할 때 유용하다.
+
+```nginx
+try_files $uri $uri.html $uri/ =404
+```
+
 ## 문제해결 
 
 ### 413 Request Entity Too Large 발생시
@@ -57,3 +67,7 @@ server {
     client_max_body_size 20M;
 }
 ```
+
+## 참고자료
+
+[Module ngx_http_core_module](http://nginx.org/en/docs/http/ngx_http_core_module.html)
