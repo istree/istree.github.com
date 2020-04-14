@@ -24,3 +24,5 @@ title: SVG
 [SVG Tutorials](http://www.petercollingridge.co.uk/tutorials/svg/)
 
 [Understanding d3 scale quantize / quantile](https://bl.ocks.org/aviddiviner/84d905e60c6788f77ee21d35f873b236)
+
+[How To Define SVG Content for Reuse](https://vanseodesign.com/web-design/svg-definition-reuse/)
