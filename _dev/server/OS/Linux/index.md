@@ -11,6 +11,8 @@ title: Linux
 
 [crontab](./command/crontab)
 
+[디렉토리 덮어쓰기](./command/디렉토리-덮어쓰기)
+
 <!-- 
 ## 유닉스 파워 툴
 
