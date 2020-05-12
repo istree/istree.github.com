@@ -1,7 +1,14 @@
 ---
 title: CSS
 ---
+
+[선택자(Selector)](selector)
+
 ## 참고자료
+
+[w3schools CSS 레퍼런스](https://www.w3schools.com/cssref/default.asp)
+
+[w3schools CSS 선택자](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ### div
 
