@@ -27,6 +27,8 @@ title: Linux
 
 ## 쉘의 기능
 
+[bash 단축키](./bash-단축키(Linux))
+
 명령어 치환
 
 프로세스 치환
