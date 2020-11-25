@@ -2,4 +2,4 @@
 title: DOM
 ---
 
-[DOM Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute)
+[Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
