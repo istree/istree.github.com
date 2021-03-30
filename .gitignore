@@ -1,8 +1,15 @@
+# common
 .DS_Store
 Thumbs.db
-.idea/
+
+# jekyll
 _site/
 .sass-cache/
-.jekyll-metadata/
 .jekyll-cache/
+.jekyll-metadata/
+
+# ide
+.idea/
+
+# node
 node_modules/
