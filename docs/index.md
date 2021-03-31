@@ -139,7 +139,7 @@ IDE
 &nbsp; <a href="./dev/tool/IDE/IntelliJ">IntelliJ</a>
 <br/>
 
-&nbsp; <a href="./dev/tool/IDE/Visual-Studio-Code">Visual Studio Code</a>
+&nbsp; <a href="./dev/tool/IDE/Visual-Studio-Code">VS Code</a>
 <br/>
 
 <!--
