@@ -9,6 +9,8 @@ title: IntelliJ
 
 [코드스니펫](코드스니펫(IntelliJ))
 
+[터미널에서 실행](터미널에서-실행(IntelliJ))
+
 <!-- 
 ## 실행설정 (Run Configuration)
 
