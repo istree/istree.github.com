@@ -138,10 +138,9 @@ IDE
 <br/>
 &nbsp; <a href="./dev/tool/IDE/IntelliJ">IntelliJ</a>
 <br/>
-<!--
-&nbsp; <a href="./dev/tool/IDE/Visual-Studio">Visual Studio</a>
+
+&nbsp; <a href="./dev/tool/IDE/Visual-Studio-Code">Visual Studio Code</a>
 <br/>
--->
 
 <!--
 &nbsp; <a href="./dev/tool/IDE/Eclipse">Eclipse</a>
