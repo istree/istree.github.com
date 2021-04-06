@@ -27,3 +27,25 @@ code
 code ~/myproject
 ```
 
+### 파인더에서 실행
+
+Automator 실행
+
+빠른 동작 선택
+
+지정된 Finder 항목 가져오기 추가
+
+Finder 항목 열기 추가
+
+Finder 항목 열기 에서 Visual Studio Code 선택
+
+Open in VS Code 등으로 저장
+
+파인더 -> 우클릭 -> 서비스 에 메뉴가 추가되어 있다.
+
+메뉴를 선택하면 Visual Studio Code가 해당 디렉토리를 베이스로 실행된다.
+
+### 참고자료
+
+[How to add Open in VS Code option to Finder](https://brainarchives.com/how-to-add-open-in-vscode-option-to-finder/)
+
