@@ -11,6 +11,8 @@ title: IntelliJ
 
 [터미널에서 실행](터미널에서-실행(IntelliJ))
 
+[파일 확장자 인식 오류](파일-확장자-인식-오류(IntelliJ))
+
 <!-- 
 ## 실행설정 (Run Configuration)
 
